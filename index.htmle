@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <title>web</title>
+        <link rel="web.css" href="color_practice_web.css">
+        <style>
+          .p{
+           background-color: rgb(26, 25, 25);
+
+          }
+        </style>
+      </head>
+      <body class="p">
+      <div><h1 style=color:blue;text-align:center;">Color me with RGB!</h1></div>    
+        
+      </body>
+    </html>
+
+          
+    
+</body>
+</html>
